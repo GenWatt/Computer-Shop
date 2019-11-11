@@ -1,0 +1,24 @@
+{
+    "product": [{
+            "title": "Nvidia GeForce",
+            "id": "1",
+            "overclocking": ["yes", "no"],
+            "description": "The best graphic ever",
+            "price": "6000zł"
+        },
+
+        {
+            "title": "AMD",
+            "id": "2",
+            "overclocking": ["yes", "no"],
+            "description": "Smooth and preformance"
+        },
+
+        {
+            "title": "intel",
+            "id": "3",
+            "overclocking": ["yes", "no"],
+            "description": "Best speed! Our chip can take evry game !"
+        }
+    ]
+}
