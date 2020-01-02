@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Computer-Shop/static/css/main.b8142cf4.chunk.css",
-    "main.js": "/Computer-Shop/static/js/main.de297d5e.chunk.js",
-    "main.js.map": "/Computer-Shop/static/js/main.de297d5e.chunk.js.map",
+    "main.css": "/Computer-Shop/static/css/main.2a103071.chunk.css",
+    "main.js": "/Computer-Shop/static/js/main.614c14c8.chunk.js",
+    "main.js.map": "/Computer-Shop/static/js/main.614c14c8.chunk.js.map",
     "runtime-main.js": "/Computer-Shop/static/js/runtime-main.0384f62a.js",
     "runtime-main.js.map": "/Computer-Shop/static/js/runtime-main.0384f62a.js.map",
     "static/js/2.515798b0.chunk.js": "/Computer-Shop/static/js/2.515798b0.chunk.js",
     "static/js/2.515798b0.chunk.js.map": "/Computer-Shop/static/js/2.515798b0.chunk.js.map",
     "index.html": "/Computer-Shop/index.html",
-    "precache-manifest.fc1984e09de8658c2ccb9492da45e27b.js": "/Computer-Shop/precache-manifest.fc1984e09de8658c2ccb9492da45e27b.js",
+    "precache-manifest.564841896a03e0a10fc1ea8cbf13986d.js": "/Computer-Shop/precache-manifest.564841896a03e0a10fc1ea8cbf13986d.js",
     "service-worker.js": "/Computer-Shop/service-worker.js",
-    "static/css/main.b8142cf4.chunk.css.map": "/Computer-Shop/static/css/main.b8142cf4.chunk.css.map",
+    "static/css/main.2a103071.chunk.css.map": "/Computer-Shop/static/css/main.2a103071.chunk.css.map",
     "static/media/speed.jpg": "/Computer-Shop/static/media/speed.d0fe4a17.jpg"
   }
 }
