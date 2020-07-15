@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/GenWatt/Advenced-To-Do-List-React-API-COTNTEXT/static/css/main.b30ee6a1.chunk.css",
-    "main.js": "/GenWatt/Advenced-To-Do-List-React-API-COTNTEXT/static/js/main.9c2aea10.chunk.js",
-    "main.js.map": "/GenWatt/Advenced-To-Do-List-React-API-COTNTEXT/static/js/main.9c2aea10.chunk.js.map",
-    "runtime-main.js": "/GenWatt/Advenced-To-Do-List-React-API-COTNTEXT/static/js/runtime-main.7f38a025.js",
-    "runtime-main.js.map": "/GenWatt/Advenced-To-Do-List-React-API-COTNTEXT/static/js/runtime-main.7f38a025.js.map",
-    "static/js/2.d368e157.chunk.js": "/GenWatt/Advenced-To-Do-List-React-API-COTNTEXT/static/js/2.d368e157.chunk.js",
-    "static/js/2.d368e157.chunk.js.map": "/GenWatt/Advenced-To-Do-List-React-API-COTNTEXT/static/js/2.d368e157.chunk.js.map",
-    "index.html": "/GenWatt/Advenced-To-Do-List-React-API-COTNTEXT/index.html",
-    "precache-manifest.3214d00bcea09ece6ead31dfffc150f8.js": "/GenWatt/Advenced-To-Do-List-React-API-COTNTEXT/precache-manifest.3214d00bcea09ece6ead31dfffc150f8.js",
-    "service-worker.js": "/GenWatt/Advenced-To-Do-List-React-API-COTNTEXT/service-worker.js",
-    "static/css/main.b30ee6a1.chunk.css.map": "/GenWatt/Advenced-To-Do-List-React-API-COTNTEXT/static/css/main.b30ee6a1.chunk.css.map",
-    "static/js/2.d368e157.chunk.js.LICENSE.txt": "/GenWatt/Advenced-To-Do-List-React-API-COTNTEXT/static/js/2.d368e157.chunk.js.LICENSE.txt"
+    "static/js/0.0853a130.chunk.js": "/AdrianTube/static/js/0.0853a130.chunk.js",
+    "static/js/0.0853a130.chunk.js.map": "/AdrianTube/static/js/0.0853a130.chunk.js.map",
+    "main.js": "/AdrianTube/static/js/main.e8ef1819.chunk.js",
+    "main.js.map": "/AdrianTube/static/js/main.e8ef1819.chunk.js.map",
+    "runtime-main.js": "/AdrianTube/static/js/runtime-main.959f5055.js",
+    "runtime-main.js.map": "/AdrianTube/static/js/runtime-main.959f5055.js.map",
+    "static/js/3.0522ed59.chunk.js": "/AdrianTube/static/js/3.0522ed59.chunk.js",
+    "static/js/3.0522ed59.chunk.js.map": "/AdrianTube/static/js/3.0522ed59.chunk.js.map",
+    "static/js/4.8a2230c7.chunk.js": "/AdrianTube/static/js/4.8a2230c7.chunk.js",
+    "static/js/4.8a2230c7.chunk.js.map": "/AdrianTube/static/js/4.8a2230c7.chunk.js.map",
+    "index.html": "/AdrianTube/index.html",
+    "precache-manifest.d3897eec3cb5cfb955167c374ebfb660.js": "/AdrianTube/precache-manifest.d3897eec3cb5cfb955167c374ebfb660.js",
+    "service-worker.js": "/AdrianTube/service-worker.js",
+    "static/js/3.0522ed59.chunk.js.LICENSE.txt": "/AdrianTube/static/js/3.0522ed59.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7f38a025.js",
-    "static/js/2.d368e157.chunk.js",
-    "static/css/main.b30ee6a1.chunk.css",
-    "static/js/main.9c2aea10.chunk.js"
+    "static/js/runtime-main.959f5055.js",
+    "static/js/3.0522ed59.chunk.js",
+    "static/js/main.e8ef1819.chunk.js"
   ]
 }
